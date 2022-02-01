@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Muthiani</h1>
+<h1 align="center">Hi 👋, I'm Vantesh</h1>
 <h3 align="center">A Software Engineer student from Kenya</h3>
 <img align="right" alt="Coding" width="400" border-radius="5%" src="https://miro.medium.com/max/680/0*gqO3slLmGb4mUeje.gif"/>
 
