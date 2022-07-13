@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, It's Victor here.</h1>
 <h3 align="left">A Software Engineer from Kenya.</h3>
 
-🌱 I’m currently learning **python and Node js**
+🌱 I’m currently learning ** Node js**
 
 👯 I’m looking to collaborate on **any cool projects**
 
